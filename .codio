@@ -3,6 +3,6 @@
      "Configure Project": "bash symfonyconfig.sh"
     },
     "preview": {
-     "Symfony Config": "https://{{domain}}:9500/web/config.php"
+     "Symfony Config": "https://{{domain3000}}/web/config.php"
     }
 }
